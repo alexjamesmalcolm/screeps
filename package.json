@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alexjamesmalcolm/screeps/issues"
   },
-  "homepage": "https://github.com/alexjamesmalcolm/screeps#readme"
+  "homepage": "https://github.com/alexjamesmalcolm/screeps#readme",
+  "dependencies": {
+    "@types/screeps": "^3.2.4"
+  }
 }
